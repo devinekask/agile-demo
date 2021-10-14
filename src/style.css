@@ -12,11 +12,6 @@ html {
 }
 /* stylelint-enable */
 
-.message {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: Helvectica, Arial, sans-serif;
-  font-size: 2rem;
-  margin-top: 10rem;
+body {
+  margin: 1rem;
 }
