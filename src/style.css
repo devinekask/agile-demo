@@ -15,3 +15,7 @@ html {
 body {
   margin: 1rem;
 }
+
+.email {
+  border: .1rem solid black;
+}
